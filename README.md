@@ -4,7 +4,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://david-frontend-mentor-qr-code.vercel.app/)
+- Solution URL: (https://davunju-frontend-mentor-qr-code.vercel.app/)
 
 ## My process
 
